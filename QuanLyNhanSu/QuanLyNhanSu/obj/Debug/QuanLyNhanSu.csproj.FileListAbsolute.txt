@@ -97,3 +97,5 @@ E:\devil\Hoc Tap\ky 6\TT nhom\GitHub\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\obj\
 E:\devil\Hoc Tap\ky 6\TT nhom\GitHub\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.pdb
 E:\devil\Hoc Tap\ky 6\TT nhom\New folder\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.exe
 E:\devil\Hoc Tap\ky 6\TT nhom\New folder\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.pdb
+E:\devil\Hoc Tap\ky 6\TT nhom\GitHub\Quan-Ly-Nhan-Su\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.exe
+E:\devil\Hoc Tap\ky 6\TT nhom\GitHub\Quan-Ly-Nhan-Su\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.pdb
