@@ -10,7 +10,7 @@ namespace QuanLyNhanSu.DAO
 {
     public static class SqlServerHelper
     {
-        static private string strConnect = @"Data Source=DESKTOP-22BQN4S;Initial Catalog=QUANLYNHANSU;Integrated Security=True";
+        static private string strConnect = @"Data Source=DESKTOP-22BQN4S;Initial Catalog=QUANLYNHANSUDB;Integrated Security=True";
         static private SqlConnection connection;
         static public string LopDangKy = "";
 
